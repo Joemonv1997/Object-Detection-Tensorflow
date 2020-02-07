@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>b3.jpg</filename>
+	<path>C:\Users\DELL\Downloads\final\b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>11</ymin>
+			<xmax>431</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

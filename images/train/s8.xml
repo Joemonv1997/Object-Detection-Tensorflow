@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>s8.jpeg</filename>
+	<path>C:\Users\DELL\Downloads\final\s8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>50</width>
+		<height>50</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>47</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>
